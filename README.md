@@ -1,5 +1,10 @@
 # Système de Gestion des Employés (EMS)
 
+<div style="text-align: center;">
+    <img src="blazor_radzen_dotnet8.jpg" alt="My Image" style="width: auto; height: 200px;">
+</div>
+
+
 ## Introduction
 
 Le Système de Gestion des Employés (EMS) est une application complète conçue pour fournir une solution intégrée de gestion des employés, englobant à la fois le frontend et le backend. Son objectif principal est de simplifier la gestion des données des employés, y compris leurs informations personnelles, leur statut d'emploi et leur département.
@@ -39,6 +44,14 @@ Pour démarrer l'application, suivez les étapes ci-dessous :
 2. **Restaurer les dépendances :**
 
    ```bash
+   cd front-end
+   dotnet restore
+   ```
+
+  
+
+   ```bash
+   cd backend-api
    dotnet restore
    ```
 
@@ -48,12 +61,13 @@ Pour démarrer l'application, suivez les étapes ci-dessous :
     ```
 
 4. **Démarrer l'application :**
+    > Démarrer les serveurs dans les dossier **front-end** et **backend-api**
     ```bash
     dotnet run
     ```
 
 5. **Accéder à l'application :**
-Ouvrez un navigateur et rendez-vous sur `http://localhost:5000` pour accéder à l'interface utilisateur.
+Ouvrez un navigateur et rendez-vous sur `http://localhost:5288"` pour accéder à l'interface utilisateur.
 
 ## Conclusion
 

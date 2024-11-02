@@ -1,0 +1,62 @@
+@EMS.Api_HostAddress = http://localhost:5098/api
+
+GET {{ EMS.Api_HostAddress }}/employees
+Accept: application/json
+
+###
+GET {{ EMS.Api_HostAddress }}/employees/14
+Accept: application/json
+
+
+
+###
+POST {{ EMS.Api_HostAddress }}/employees
+Content-Type: application/json
+
+{
+    "Name": "Redouane",
+    "Salary": 45777,
+    "DepartmentId": 3,
+    "HireDate": "2025-12-26",
+    "Email": "red@test.ma",
+    "Status": "Retired"
+
+}
+
+###
+PUT {{ EMS.Api_HostAddress }}/employees/3 // Update
+Content-Type: application/json
+
+{
+  "id": 6,
+  "name": "Ahmed",
+  "email": "ahmed@test.ma",
+  "hireDate": "2022-09-01",
+  "addedDate": "2024-05-13",
+  "departmentId": 3,
+  "salary": 43556.0,
+  "status": "Retired"
+}
+
+###
+DELETE {{ EMS.Api_HostAddress }}/employees/14
+Accept: application/json
+
+###
+GET  {{ EMS.Api_HostAddress }}/departments
+Accept: application/json
+
+
+###
+POST https://localhost:7292/api/employees
+Content-Type: application/json
+
+{
+    "Name": "Sara",
+    "Salary": 45777,
+    "DepartmentId": 3,
+    "HireDate": "2025-12-26",
+    "Email": "sara@test.ma",
+    "Status": "Retired"
+
+}
