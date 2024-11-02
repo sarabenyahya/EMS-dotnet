@@ -1,0 +1,54 @@
+﻿
+
+<h3>Child3 Component</h3>
+<nav aria-label="...">
+  <ul class="pagination pagination">
+    @for (int i = 1; i <= 3; i++){
+    <li class="page-item ">
+      <button clbuttonss="page-link"  @onclick="()=>getStudents(i)">@i</button>
+    </li>
+    }
+  
+  </ul>
+</nav>
+
+
+
+@code {
+    [Parameter]
+    public EventCallback<List<Student>> OnGetEmployeesList { get; set; }
+
+    public class Student
+    {
+
+        public string? Name { get; set; }
+        public string? Email { get; set; }
+    
+    }
+
+    private List<Student> allStudents = new List<Student>{
+            new Student{Name="John Smith", Email="john.smith@example.com"},
+            new Student{Name="Jane Doe", Email="jane.doe@example.com"},
+            new Student{Name="Robert Johnson", Email="robert.johnson@example.com"},
+            new Student{Name="Maria Garcia", Email="maria.garcia@example.com"},
+            new Student{Name="Miguel Rodriguez", Email="miguel.rodriguez@example.com"},
+            new Student{Name="Sarah Lee", Email="sarah.lee@example.com"},
+            new Student{Name="William Brown", Email="william.brown@example.com"},
+            new Student{Name="Elizabeth Taylor", Email="elizabeth.taylor@example.com"},
+            new Student{Name="David Moore", Email="david.moore@example.com"},
+            };
+
+    private List<Student>? list { get; set; }
+
+    private void getStudents (int page){
+        list = allStudents.Skip<Student>(page-1).Take(3).ToList();
+    }
+
+
+    private async Task TriggerEvent()
+    {
+        await OnGetEmployeesList.InvokeAsync(list);
+    }
+
+   
+}

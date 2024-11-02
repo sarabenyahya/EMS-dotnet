@@ -1,0 +1,222 @@
+{"ems": {
+    "-M0IXvFjsjsk2kLkf9Q1": {
+      "AddedDate": "2022-02-15T00:00:00",
+      "Department": "Marketing",
+      "Email": "alice.johnson@example.com",
+      "HireDate": "2020-02-15T00:00:00",
+      "Id": "-M0IXvFjsjsk2kLkf9Q1",
+      "ModifiedDate": "2022-02-15T00:00:00",
+      "Name": "Alice Johnson",
+      "Salary": 20000
+    },
+    "-M0IXvFjsjsk2kLkf9Q10": {
+      "AddedDate": "2022-03-05",
+      "Department": "Finance",
+      "Email": "ethan.clark@example.com",
+      "HireDate": "2022-02-05",
+      "ModifiedDate": "2022-02-15",
+      "Name": "Ethan Clark",
+      "Salary": 780
+    },
+    "-M0IXvFjsjsk2kLkf9Q2": {
+      "AddedDate": "2022-01-05T00:00:00",
+      "Department": "Sales",
+      "Email": "bob.smith@example.com",
+      "HireDate": "2021-12-20T00:00:00",
+      "Id": "-M0IXvFjsjsk2kLkf9Q2",
+      "ModifiedDate": "2022-01-15T00:00:00",
+      "Name": "Bob Smith-updated",
+      "Salary": 70000
+    },
+    "-M0IXvFjsjsk2kLkf9Q3": {
+      "AddedDate": "2022-01-10",
+      "Department": "Human Resources",
+      "Email": "emily.brown@example.com",
+      "HireDate": "2022-01-10",
+      "ModifiedDate": "2022-01-20",
+      "Name": "Emily Brown",
+      "Salary": 68000
+    },
+    "-M0IXvFjsjsk2kLkf9Q4": {
+      "AddedDate": "2022-02-01",
+      "Department": "Finance",
+      "Email": "michael.wilson@example.com",
+      "HireDate": "2022-02-01",
+      "ModifiedDate": "2022-02-10",
+      "Name": "Michael Wilson",
+      "Salary": 80000
+    },
+    "-M0IXvFjsjsk2kLkf9Q5": {
+      "AddedDate": "2022-01-25",
+      "Department": "Marketing",
+      "Email": "daniel.smith@example.com",
+      "HireDate": "2021-12-25",
+      "ModifiedDate": "2022-01-25",
+      "Name": "Daniel Smith",
+      "Salary": 30000
+    },
+    "-M0IXvFjsjsk2kLkf9Q6": {
+      "AddedDate": "2022-01-26",
+      "Department": "Sales",
+      "Email": "rachel.green@example.com",
+      "HireDate": "2022-01-26",
+      "ModifiedDate": "2022-01-26",
+      "Name": "Rachel Green",
+      "Salary": 75000
+    },
+    "-M0IXvFjsjsk2kLkf9Q7": {
+      "AddedDate": "2022-01-27",
+      "Department": "Human Resources",
+      "Email": "michael.scott@example.com",
+      "HireDate": "2022-01-27",
+      "ModifiedDate": "2022-01-27",
+      "Name": "Michael Scott",
+      "Salary": 80000
+    },
+    "-M0IXvFjsjsk2kLkf9Q8": {
+      "AddedDate": "2022-01-28",
+      "Department": "Finance",
+      "Email": "david.watts@example.com",
+      "HireDate": "2022-01-28",
+      "ModifiedDate": "2022-01-28",
+      "Name": "David Watts",
+      "Salary": 50000
+    },
+    "-M0IXvFjsjsk2kLkf9Q9": {
+      "AddedDate": "2022-01-29",
+      "Department": "Legal",
+      "Email": "jim.halpert@example.com",
+      "HireDate": "2022-01-29",
+      "ModifiedDate": "2022-01-29",
+      "Name": "Jim Halpert",
+      "Salary": 60000
+    },
+    "-M0IXvFjsjsk2kLkf9QA": {
+      "AddedDate": "2022-01-30",
+      "Department": "Sales",
+      "Email": "pam.beesly@example.com",
+      "HireDate": "2022-01-30",
+      "ModifiedDate": "2022-01-30",
+      "Name": "Pam Beesly",
+      "Salary": 65000
+    },
+    "-M0IXvFjsjsk2kLkf9QB": {
+      "AddedDate": "2022-01-31",
+      "Department": "Marketing",
+      "Email": "tom.watson@example.com",
+      "HireDate": "2022-01-31",
+      "ModifiedDate": "2022-01-31",
+      "Name": "Tom Watson",
+      "Salary": 40000
+    },
+    "-M0IXvFjsjsk2kLkf9QC": {
+      "AddedDate": "2022-02-01",
+      "Department": "Finance",
+      "Email": "jim-halpert@example.com",
+      "HireDate": "2022-02-01",
+      "ModifiedDate": "2022-02-01",
+      "Name": "Jim Halpert 2",
+      "Salary": 55000
+    },
+    "-M0IXvFjsjsk2kLkf9QD": {
+      "AddedDate": "2022-02-02",
+      "Department": "Human Resources",
+      "Email": "donna.murphy@example.com",
+      "HireDate": "2022-02-02",
+      "ModifiedDate": "2022-02-02",
+      "Name": "Donna Murphy",
+      "Salary": 62000
+    },
+    "-M0IXvFjsjsk2kLkf9QE": {
+      "AddedDate": "2022-02-03",
+      "Department": "Sales",
+      "Email": "josh@example.com",
+      "HireDate": "2022-02-03",
+      "ModifiedDate": "2022-02-03",
+      "Name": "Josh",
+      "Salary": 70000
+    },
+    "-M0IXvFjsjsk2kLkf9QF": {
+      "AddedDate": "2022-02-04",
+      "Department": "Legal",
+      "Email": "kevin.malone@example.com",
+      "HireDate": "2022-02-04",
+      "ModifiedDate": "2022-02-04",
+      "Name": "Kevin Malone",
+      "Salary": 67000
+    },
+    "-M0IXvFjsjsk2kLkf9QG": {
+      "AddedDate": "2022-02-05",
+      "Department": "Marketing",
+      "Email": "erin.hart@example.com",
+      "HireDate": "2022-02-05",
+      "ModifiedDate": "2022-02-05",
+      "Name": "Erin Hart",
+      "Salary": 45000
+    },
+    "-M0IXvFjsjsk2kLkf9QH": {
+      "AddedDate": "2022-02-06",
+      "Department": "Sales",
+      "Email": "angela.martin@example.com",
+      "HireDate": "2022-02-06",
+      "ModifiedDate": "2022-02-06",
+      "Name": "Angela Martin",
+      "Salary": 72000
+    },
+    "-M0IXvFjsjsk2kLkf9QI": {
+      "AddedDate": "2022-02-07",
+      "Department": "Human Resources",
+      "Email": "monica.johnson@example.com",
+      "HireDate": "2022-02-07",
+      "ModifiedDate": "2022-02-07",
+      "Name": "Monica Johnson",
+      "Salary": 52000
+    },
+    "-M0IXvFjsjsk2kLkf9QJ": {
+      "AddedDate": "2022-02-08",
+      "Department": "Finance",
+      "Email": "craig.wilson@example.com",
+      "HireDate": "2022-02-08",
+      "ModifiedDate": "2022-02-08",
+      "Name": "Craig Wilson",
+      "Salary": 65000
+    },
+    "-M0IXvFjsjsk2kLkf9QK": {
+      "AddedDate": "2022-02-09",
+      "Department": "Sales",
+      "Email": "susan.davis@example.com",
+      "HireDate": "2022-02-09",
+      "ModifiedDate": "2022-02-09",
+      "Name": "Susan Davis",
+      "Salary": 79000
+    },
+    "-M0IXvFjsjsk2kLkf9QL": {
+      "AddedDate": "2022-02-10",
+      "Department": "Marketing",
+      "Email": "alex.martin@example.com",
+      "HireDate": "2022-02-10",
+      "ModifiedDate": "2022-02-10",
+      "Name": "Alex Martin",
+      "Salary": 42000
+    },
+    "-M0IXvFjsjsk2kLkf9QM": {
+      "AddedDate": "2022-02-11",
+      "Department": "Sales",
+      "Email": "michael.miller@example.com",
+      "HireDate": "2022-02-11",
+      "ModifiedDate": "2022-02-11",
+      "Name": "Michael Miller",
+      "Salary": 72000
+    },
+    "-M0IXvFjsjsk2kLkf9QN": {
+      "AddedDate": "2022-02-12",
+      "Department": "Human Resources",
+      "Email": "david.jones@example.com",
+      "HireDate": "2022-02-12",
+      "ModifiedDate": "2022-02-12",
+      "Name": "David Jones",
+      "Salary": 55000    
+    }
+
+  }
+}

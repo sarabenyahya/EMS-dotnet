@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EMS
+build_property.RootNamespace = EMS
+build_property.ProjectDir = /home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/DeleteModal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9EZWxldGVNb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/Loading.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Mb2FkaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/Navbar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9OYXZiYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BYm91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/Pages/EmployeeForm.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FbXBsb3llZUZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/Pages/Employees.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FbXBsb3llZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/Pages/Test1.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UZXN0MS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/Pagination.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdpbmF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/Tests/Child.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9UZXN0cy9DaGlsZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/Tests/Parent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9UZXN0cy9QYXJlbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/Tests/ToastDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9UZXN0cy9Ub2FzdERlbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sara/dotnetProjects/EMS application/EMS-dotnet/front-end/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-vv8rg4t8hh
